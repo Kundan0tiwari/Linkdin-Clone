@@ -1,10 +1,18 @@
 import React from 'react';
 import './App.css';
+import Header from './Header';
 
 function App() {
   return (
     <div className="app">
-      Lets build Linkdin Clone
+      {/*Header*/}
+      <Header/>
+      {/*App Body*/}
+
+        {/*Side Bar*/}
+        {/*Header*/}
+        {/*Feed*/}
+        {/*Widgets*/}
     </div>
   );
 }

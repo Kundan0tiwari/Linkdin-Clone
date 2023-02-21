@@ -1,0 +1,10 @@
+{
+    "emmet.extensionsPath": [
+        "{ \"javascript\": \"html\" }"
+    ],
+
+    "emmet.preferences": {
+
+    },
+    "emmet.includeLanguages": { "javascript": "html" }
+}
